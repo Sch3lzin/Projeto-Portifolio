@@ -1,3 +1,3 @@
-#Projeto - Portifolio
+# Projeto - Portifolio
 
-###Curso - Alura (Front-end)
+### Curso - Alura (Front-end)
